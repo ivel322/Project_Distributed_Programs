@@ -1,0 +1,15 @@
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.AplicationServices.dll.config
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.AplicationServices.dll
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.AplicationServices.pdb
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\EntityFramework.dll
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\EntityFramework.SqlServer.dll
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.Data.dll
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.Data.pdb
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\OL.Data.dll.config
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\EntityFramework.xml
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\bin\Debug\EntityFramework.SqlServer.xml
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\obj\Debug\OL.AplicationServices.csprojAssemblyReference.cache
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\obj\Debug\OL.AplicationServices.csproj.CoreCompileInputs.cache
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\obj\Debug\OL.AplicationServices.csproj.CopyComplete
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\obj\Debug\OL.AplicationServices.dll
+E:\OnlineBookstore\WCF.Service\OL.AplicationServices\obj\Debug\OL.AplicationServices.pdb
